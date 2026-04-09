@@ -50,9 +50,11 @@ ML app that analyses 5,000 songs and forms personalised playlists using unsuperv
 
 - **Data Analyst** · Essentis GmbH · Jan 2025–Jan 2026
 - **Inner Coach · Consultant** · Inner Mind / WiT Germany – Institut für Bildung und innere Transformation e.V. · Nov 2022–present
-- **Front Office Supervisor** · Ibis Hotel Dortmund · August 2022 – Dec 2025
-- **Strategic IT Lead** · BENEFFECT GmbH Vietnam · May 2022 – Dec 2025
+- **Front Office Supervisor** · Ibis Hotel Dortmund · August 2022 – Dec 2024
+- **Strategic IT Lead** · BENEFFECT GmbH Vietnam · May 2022 – Dec 2024
 - **Backend Web Developer** · GroeneWorld New Media · Jun 2018 – Sep 2020
+- **Backend Web Developer** · Bechtle AG · Marz 2018 – Mai 2018
+- **Backend Web Developer** · FTK e. V. – Forschungsinstitut für Telekommunikation und Kooperation · Jan 2018 – Feb 2018
 
 ---
 
