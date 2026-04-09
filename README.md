@@ -1,4 +1,4 @@
-# annaphuongduong
+# AnnaPhuongDuong
 
 Data Analyst · Data Scientist · Inner Coach — Dortmund, Germany
 
