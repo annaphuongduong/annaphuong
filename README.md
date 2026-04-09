@@ -65,6 +65,6 @@ German (C1) · English (B2 advanced) · Vietnamese (native)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annaphuong-duong/)
-[![GitHub](https://img.shields.io/badge/GitHub-2d333b?style=flat&logo=github&logoColor=white)](https://github.com/annaphuong)
+[![GitHub](https://img.shields.io/badge/GitHub-2d333b?style=flat&logo=github&logoColor=white)](https://github.com/annaphuongduong)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:annaphuongduong12@gmail.com)
 
