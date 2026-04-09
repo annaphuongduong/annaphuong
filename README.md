@@ -61,10 +61,11 @@ ML app that analyses 5,000 songs and forms personalised playlists using unsuperv
 
 ## 🌍 Languages
 
-German (C1) · English (B2) · Vietnamese (native)
+German (C1) · English (B2 advanced) · Vietnamese (native)
 
 ---
 
 ## 📧 Contact
 
 annaphuongduong12@gmail.com · Dortmund, Germany
+Tel: +49 15566285997
