@@ -38,10 +38,10 @@ ML app that analyses 5,000 songs and forms personalised playlists using unsuperv
   Capstone Project: [Live Library of the Mind](https://github.com/annaphuongduong/live_library_24_7) — 
   AI-powered knowledge curation system built with FastAPI, Python & Docker
 - **M.Sc. Informatics** · Ruhr West Bottrop · 2017–2022
-  Thesis: *System design for psychological safety in cross-generational collaboration*
+  Thesis: *"System design to promote psychological safety in cross-generational collaboration."*
 - **B.Sc. Computer Science** · FH Dortmund · 2012–2017
-  Thesis: *Web-based learning module for logical database design in Java*
-
+  Thesis: *"Development and evaluation of a web-based learning module for logical database design"*
+  
 ---
 
 ## Experience highlights
