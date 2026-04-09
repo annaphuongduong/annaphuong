@@ -4,7 +4,7 @@ Data Analyst · Data Scientist · Inner Coach — Dortmund, Germany
 
 Data Analyst with 4+ years of experience building robust data pipelines, scalable analytics solutions, and professional dashboards — using Python, SQL, Azure, and Tableau. I transform unstructured data into governed, actionable systems and thrive in inclusive, interdisciplinary teams.
 
-Currently levelling up through a **Data Scientist Bootcamp at WBS Coding School Berlin**, where I apply ML and BI skills to real-world projects. Alongside data, I practise inner coaching — helping individuals and teams grow through psychological safety and values-driven decision making. Two fields that both reward deep listening and structured thinking.
+Currently levelling up through a **Data Scientist Bootcamp at WBS Coding School Berlin**, where I apply ML and Tableau, Seaborn, BI skills to real-world projects. Alongside data, I practise inner coaching — helping individuals and teams grow through psychological safety and values-driven decision making. Two fields that both reward deep listening and structured thinking.
 
 ---
 
