@@ -10,9 +10,11 @@ Currently levelling up through a **Data Scientist Bootcamp at WBS Coding School 
 
 ## Current projects
 
-**GoExplore — E-commerce Power BI Dashboard**
-Professional Power BI dashboard tracking net revenue, gross margin, AOV, and returns — with year-over-year comparisons and drill-downs by category, channel, and region.
-`Power BI` `E-commerce Analytics` `DAX`
+**GoExplore — E-commerce Performance Dashboard**
+Interactive Tableau dashboard delivering actionable sales insights — tracking
+net revenue, gross margin, AOV, and return rates with drill-downs by category,
+channel, and region, and year-over-year trend analysis.
+`Tableau` `E-commerce Analytics` `Data Visualisation` `KPI Reporting`
 
 **Liane's Library — Data Governance System**
 Designed and implemented data governance principles to structure, standardise, and migrate unstructured data lists into a centrally managed, usable data library.
