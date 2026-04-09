@@ -36,6 +36,7 @@ ML app that analyses 5,000 songs and forms personalised playlists using unsuperv
 `Azure DP900` `SAP` `Data Warehousing`
 `Git · GitHub` `Scrum` `CleanCode`
 
+![Python](https://img.shields.io/badge/Python-0C447C?style=flat&labelColor=E6F1FB&color=E6F1FB&logoColor=0C447C)
 ---
 
 ## 🎓 Education
