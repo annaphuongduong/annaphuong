@@ -1,4 +1,4 @@
-# AnnaPhuongDuong
+# Duong
 
 Data Analyst · Data Scientist · Inner Coach — Dortmund, Germany
 
@@ -8,7 +8,7 @@ Currently levelling up through a **Data Scientist Bootcamp at WBS Coding School 
 
 ---
 
-## 🎯 Current projects
+## Current projects
 
 **GoExplore — E-commerce Power BI Dashboard**
 Professional Power BI dashboard tracking net revenue, gross margin, AOV, and returns — with year-over-year comparisons and drill-downs by category, channel, and region.
@@ -28,11 +28,11 @@ ML app that analyses 5,000 songs and forms personalised playlists using unsuperv
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-E6F1FB?style=flat&logo=python&logoColor=0C447C&labelColor=E6F1FB&color=E6F1FB) ![SQL · NoSQL](https://img.shields.io/badge/SQL%20%C2%B7%20NoSQL-E6F1FB?style=flat&logoColor=0C447C&labelColor=E6F1FB&color=E6F1FB) ![Java](https://img.shields.io/badge/Java-E6F1FB?style=flat&logo=openjdk&logoColor=0C447C&labelColor=E6F1FB&color=E6F1FB) ![JavaScript](https://img.shields.io/badge/JavaScript-E6F1FB?style=flat&logo=javascript&logoColor=0C447C&labelColor=E6F1FB&color=E6F1FB) ![Tableau](https://img.shields.io/badge/Tableau-E1F5EE?style=flat&logo=tableau&logoColor=085041&labelColor=E1F5EE&color=E1F5EE) ![Power BI](https://img.shields.io/badge/Power%20BI-E1F5EE?style=flat&logo=powerbi&logoColor=085041&labelColor=E1F5EE&color=E1F5EE) ![Seaborn](https://img.shields.io/badge/Seaborn-E1F5EE?style=flat&logoColor=085041&labelColor=E1F5EE&color=E1F5EE) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-EEEDFE?style=flat&logo=scikit-learn&logoColor=3C3489&labelColor=EEEDFE&color=EEEDFE) ![Supervised ML](https://img.shields.io/badge/Supervised%20ML-EEEDFE?style=flat&logoColor=3C3489&labelColor=EEEDFE&color=EEEDFE) ![Unsupervised ML](https://img.shields.io/badge/Unsupervised%20ML-EEEDFE?style=flat&logoColor=3C3489&labelColor=EEEDFE&color=EEEDFE) ![Time Series](https://img.shields.io/badge/Time%20Series-EEEDFE?style=flat&logoColor=3C3489&labelColor=EEEDFE&color=EEEDFE) ![FastAPI](https://img.shields.io/badge/FastAPI-EEEDFE?style=flat&logo=fastapi&logoColor=3C3489&labelColor=EEEDFE&color=EEEDFE) ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-EEEDFE?style=flat&logoColor=3C3489&labelColor=EEEDFE&color=EEEDFE) ![Azure DP900](https://img.shields.io/badge/Azure%20DP900-FAEEDA?style=flat&logo=microsoftazure&logoColor=633806&labelColor=FAEEDA&color=FAEEDA) ![SAP](https://img.shields.io/badge/SAP-FAEEDA?style=flat&logo=sap&logoColor=633806&labelColor=FAEEDA&color=FAEEDA) ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-FAEEDA?style=flat&logoColor=633806&labelColor=FAEEDA&color=FAEEDA) ![Docker](https://img.shields.io/badge/Docker-FAEEDA?style=flat&logo=docker&logoColor=633806&labelColor=FAEEDA&color=FAEEDA) ![Git · GitHub](https://img.shields.io/badge/Git%20%C2%B7%20GitHub-F1EFE8?style=flat&logo=github&logoColor=444441&labelColor=F1EFE8&color=F1EFE8) ![Scrum](https://img.shields.io/badge/Scrum-F1EFE8?style=flat&logoColor=444441&labelColor=F1EFE8&color=F1EFE8) ![CleanCode](https://img.shields.io/badge/CleanCode-F1EFE8?style=flat&logoColor=444441&labelColor=F1EFE8&color=F1EFE8)
 
-## 🎓 Education
+## Education
 
 **Data Scientist Bootcamp** · WBS Coding School Berlin · 2025–2026
   Capstone Project: [Live Library of the Mind](https://github.com/annaphuongduong/live_library_24_7) — 
@@ -44,7 +44,7 @@ ML app that analyses 5,000 songs and forms personalised playlists using unsuperv
 
 ---
 
-## 💼 Experience highlights
+## Experience highlights
 
 - **Data Analyst** · Essentis GmbH · Jan 2025–Jan 2026
 - **Inner Coach · Consultant** · Inner Mind / WiT Germany · Nov 2022–present
@@ -53,13 +53,13 @@ ML app that analyses 5,000 songs and forms personalised playlists using unsuperv
 
 ---
 
-## 🌍 Languages
+## Languages
 
 German (C1) · English (B2 advanced) · Vietnamese (native)
 
 ---
 
-## 📧 Contact
+## Contact
 
 annaphuongduong12@gmail.com · Dortmund, Germany
 Tel: +49 15566285997
